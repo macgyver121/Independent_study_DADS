@@ -1,11 +1,11 @@
 # Independent_study_DADS
 
-## Dataset
+## 1.Dataset
 - YouTube live comment Dataset
 - Wisesight Dataset
 
-## Prepare data and preprocessing code
+## 2.Prepare data and preprocessing code
 
-## Model for YouTube live comment Dataset
+## 3.Model for YouTube live comment Dataset
 
-## Model for Wisesight Dataset
+## 4.Model for Wisesight Dataset
