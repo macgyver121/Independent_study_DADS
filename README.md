@@ -22,5 +22,7 @@ the process for this step is following:
 4. concatinate+preprocessing_wsdata.ipynb: the code for concatinate and preprocessing in Wisesight dataset
 
 ## 3.Model for YouTube live comment Dataset
+I have the example code for YouTube live comment Dataset in many model such as SVM, LSTM1layer, LSTM2layer and LSTM+NCP
 
 ## 4.Model for Wisesight Dataset
+I have the example code for Wisesight Dataset in many model such as SVM, LSTM1layer, LSTM2layer and LSTM+NCP
