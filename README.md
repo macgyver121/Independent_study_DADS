@@ -8,9 +8,9 @@ I have 2 folder containing dataset
    
 2. The dataset that ready for use in model
 
-*Tabspace* 2.1 YouTube live comment Dataset (data_all.csv)
+&emsp; 2.1 YouTube live comment Dataset (data_all.csv)
 
-*Tabspace* 2.2 Wisesight Dataset (wsdata_all.csv)
+&emsp; 2.2 Wisesight Dataset (wsdata_all.csv)
 
 ## 2.Prepare data and preprocessing code
 
