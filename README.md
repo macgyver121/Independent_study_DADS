@@ -14,7 +14,9 @@ I have 2 folder containing dataset
 
 ## 2.Prepare data and preprocessing code
 
-the process for this step is following:
+The code starting for ingest the raw data, prepared by delete the duplicate row, concatinate the dataset and preprocessing data.
+
+The process for this step is following:
 
 1. ingest_data_bypytchat.ipynb: the code for ingest Live comment Data from YouTube MorningNEWsTV3 by Pytchat
 2. delete_duplicate_data.ipynb: the code for delete duplicate row with the same authorName and message
